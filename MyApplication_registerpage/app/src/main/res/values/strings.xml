@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">My Application_register page</string>
+    <string name="app_name">INNERHR</string>
     <string name="first_name">FIRST-NAME</string>
     <string name="last_name">LAST-NAME</string>
     <string name="email">EMAIL</string>
@@ -7,4 +7,9 @@
     <string name="password">PASSWORD</string>
     <string name="policy">I agree to all the terms and conditions</string>
     <string name="register">REGISTER</string>
+
+    <string name="username1">EMAIL</string>
+    <string name="password1">PASSWORD</string>
+    <string name="button1">LOGIN</string>
+    <string name="newuser">New User?...register</string>
 </resources>
